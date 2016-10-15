@@ -1,4 +1,4 @@
-# you'll definitely enjoy the shopping experience here
+# You'll definitely enjoy the shopping experience here
 - [x] Designed using Sketch
 - [x] Yii Framework for front-end and backend development
 - [x] Analysing feature with Apache Spark
