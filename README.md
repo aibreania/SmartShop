@@ -1,1 +1,2 @@
-# A shop so smart that you'll definitely enjoy the shopping experience.
+# you'll definitely enjoy the shopping experience
+[x] hi
